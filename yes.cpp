@@ -20,6 +20,8 @@ public:
         while (i < a) {
             res.push_back(nums1[i]);
             i++;
+
+            //yewss.ccpp
         }
         
         while (j < b) {
