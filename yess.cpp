@@ -23,8 +23,7 @@ public:
         }
         
         while (j < b) {
-            res.push_back(nums2[j]);
-            j++;
+
         }
         
         // Now, calculate the median based on the length of the merged array.
