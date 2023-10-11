@@ -26,10 +26,7 @@ public:
             res.push_back(nums2[j]);
             j++;
         }
-
-        
-        
-        // Now, calculate the median based on the length of the merged array.
+ // Now, calculate the median based on the length of the merged array.
         if (totalLength % 2 == 0) {
             // If the total length is even, return the average of the two middle elements.
             int mid1 = totalLength / 2;
