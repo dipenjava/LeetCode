@@ -38,4 +38,5 @@ public:
             return (double)res[mid];
         }
     }
+
 };
