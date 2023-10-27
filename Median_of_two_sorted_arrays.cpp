@@ -36,7 +36,6 @@ public:
             // If the total length is odd, return the middle element.
             int mid = totalLength / 2;
             return (double)res[mid];
-        }
-        
+        }        
     }
 };
