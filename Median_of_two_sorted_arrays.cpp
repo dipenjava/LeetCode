@@ -37,5 +37,6 @@ public:
             int mid = totalLength / 2;
             return (double)res[mid];
         }
+        
     }
 };
