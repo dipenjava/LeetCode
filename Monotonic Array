@@ -12,6 +12,7 @@ public:
             }
 
 
+
             if (!increasing && !decreasing) {
                 return false;
             }
