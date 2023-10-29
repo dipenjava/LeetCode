@@ -11,8 +11,6 @@ public:
                 increasing = false;
             }
 
-
-
             if (!increasing && !decreasing) {
                 return false;
             }
