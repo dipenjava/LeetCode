@@ -22,7 +22,6 @@ public:
                 {
                     j++;
                 }
-
                 else
                 {
                     k--;
