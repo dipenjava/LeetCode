@@ -15,7 +15,7 @@ public:
                 res.push_back(nums2[j]);
                 j++;
             }
-        }     
+        }   
         
         while (i < a) {
             res.push_back(nums1[i]);
