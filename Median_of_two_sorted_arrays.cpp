@@ -20,8 +20,7 @@ public:
         while (i < a) {
             res.push_back(nums1[i]);
             i++;
-        }
-        
+        }        
         while (j < b) {
             res.push_back(nums2[j]);
             j++;
